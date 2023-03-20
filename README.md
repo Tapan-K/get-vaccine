@@ -23,7 +23,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [GPL-3.0 License](https://github.com/Tapan-K/getvaccine/blob/master/LICENSE)
 
 ## Contributor
+Tapan Kumar prusti
 
-<a href="https://github.com/Tapan-K/getvaccine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Tapan-K/getvaccine" />
-</a>
