@@ -20,10 +20,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[GPL-3.0 License](https://github.com/ashish-devv/getvaccine/blob/master/LICENSE)
+[GPL-3.0 License](https://github.com/Tapan-K/getvaccine/blob/master/LICENSE)
 
 ## Contributor
 
-<a href="https://github.com/ashish-devv/getvaccine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ashish-devv/getvaccine" />
+<a href="https://github.com/Tapan-K/getvaccine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Tapan-K/getvaccine" />
 </a>
